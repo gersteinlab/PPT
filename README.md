@@ -25,7 +25,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 # Cite Us
 If you find this project useful, please cite us    
-
+```bibtex
 @article {Frank2023.11.21.568125,
         author = {Frank, Mor and Ni, Pengyu and Jensen, Matthew and Gerstein, Mark B},
         title = {Leveraging a large language model to predict protein phase transition: a physical, multiscale and interpretable approach},
@@ -37,3 +37,4 @@ If you find this project useful, please cite us
         eprint = {https://www.biorxiv.org/content/early/2023/11/22/2023.11.21.568125.full.pdf},
         journal = {bioRxiv}
 }
+```
