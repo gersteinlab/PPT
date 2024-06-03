@@ -24,7 +24,8 @@ Copyright 2024 Yale University. Permission is hereby granted, free of charge, to
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Cite Us
-If you find this project useful, please cite us
+If you find this project useful, please cite us    
+
 @article {Frank2023.11.21.568125,
         author = {Frank, Mor and Ni, Pengyu and Jensen, Matthew and Gerstein, Mark B},
         title = {Leveraging a large language model to predict protein phase transition: a physical, multiscale and interpretable approach},
