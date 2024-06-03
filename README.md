@@ -9,7 +9,7 @@ This repository provides code for predicting protein phase transition (PPT) prop
 #### 1. Code_Models: LLM.ipynb, Biophysical_classical_models.ipynb 
 1. LLM.ipynb: code for fine-tuning the ESMFold model
 2. Biophysical_classical_models.ipynb: code for the random forest (RF), other classical ML models and the combined model (ML_LM).
-3. xxx.ipynb: code to analyse the attention maps extracted from the LLM.
+3. Attention_map_analysis.ipynb: code to analyse the attention maps extracted from the LLM.
 4. Transition_Score_Heatmaps.ipynb: code for generating transition score heatmaps.
 
 #### 2. Make_Predictions: 
