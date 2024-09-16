@@ -27,15 +27,14 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 # Cite Us
 If you find this project useful, please cite us    
 ```bibtex
-@article {Frank2023.11.21.568125,
-        author = {Frank, Mor and Ni, Pengyu and Jensen, Matthew and Gerstein, Mark B},
-        title = {Leveraging a large language model to predict protein phase transition: a physical, multiscale and interpretable approach},
-        elocation-id = {2023.11.21.568125},
-        year = {2023},
-        doi = {10.1101/2023.11.21.568125},
-        publisher = {Cold Spring Harbor Laboratory},
-        URL = {https://www.biorxiv.org/content/early/2023/11/22/2023.11.21.568125},
-        eprint = {https://www.biorxiv.org/content/early/2023/11/22/2023.11.21.568125.full.pdf},
-        journal = {bioRxiv}
+@article{frank2024leveraging,
+  title={Leveraging a large language model to predict protein phase transition: A physical, multiscale, and interpretable approach},
+  author={Frank, Mor and Ni, Pengyu and Jensen, Matthew and Gerstein, Mark B},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={121},
+  number={33},
+  pages={e2320510121},
+  year={2024},
+  publisher={National Academy of Sciences}
 }
 ```
